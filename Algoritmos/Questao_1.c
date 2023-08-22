@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//Utilizando C
 
 int eh_quadrado_perfeito(int num) {
     int sqrt_num = 0;

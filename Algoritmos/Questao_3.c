@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//linguagem C
 int main()
 {
 
